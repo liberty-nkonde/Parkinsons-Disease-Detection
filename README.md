@@ -6,5 +6,6 @@ Done for the Google Kaggle Mentorship Programme.
 
 
 
-Liberty Nkonde 
-Google Kaggle Mentor 
+Liberty Nkonde.
+
+(Google Kaggle Mentor) 
