@@ -14,7 +14,7 @@ Different methods of feature engineering as well as classification models were t
 ## Feature Engineering Methods
 1. PCA (Principal Component Analysis)
 2. LDA (Linear Discriminant Analysis)
-3. ICA (Component Analysis)
+3. ICA (Independet Component Analysis)
 4. Autoencoders
 5. Backward Elimination (combined with KNN)
 
