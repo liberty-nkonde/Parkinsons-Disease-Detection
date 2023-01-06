@@ -12,9 +12,9 @@ The project's dataset includes features extracted from the voices of 188 Parkins
 Different methods of feature engineering as well as classification models were tested to find the best fit for the data, which I will list bellow:
 
 ## Feature Engineering Methods
-1. PCA
+1. PCA (Principal Component Analysis)
 2. LDA (Linear Discriminant Analysis)
-3. ICA
+3. ICA (Component Analysis)
 4. Autoencoders
 5. Backward Elimination (combined with KNN)
 
